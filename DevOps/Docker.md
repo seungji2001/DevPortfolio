@@ -60,3 +60,14 @@ docker exec -it 00508b4430ac bash
 ```bash
 docker run --name myjdk openjdk:17
 ```
+
+#### nginx
+```
+docker run --name mynginx -d -p 80:80 nginx
+```
+
+##### host os : window
+##### guest os : linux
+##### tool : virtual box
+##### - NAT로 포트포워딩 
+![image](https://github.com/user-attachments/assets/561dde05-b9fb-4f50-96c2-c2d200094622)
