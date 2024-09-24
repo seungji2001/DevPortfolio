@@ -28,7 +28,9 @@ tail /etc/group
 ```bash
 docker run -d -p 9000:9000 --privileged -v /var/run/docker.sock:/var/run/docker.sock uifd/ui-for-docker
 ```
-
+```bash
+docker run -d -p 9001:9000 -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data --restart=always portainer/portainer
+```
 ### 2.9000번으로 access가능한 이미지
 ```bash
 curl http://127.0.0.1:9000
@@ -44,3 +46,17 @@ docker images
 ![image](https://github.com/user-attachments/assets/7ea0e352-930b-4dea-9327-ce109ec1d399)
 
 ### 4.이미지를 컨테이너로 생성
+#### tomcat
+```bash
+docker run --name mytomcat -p 8080:8080 tomcat:10
+```
+컨테이너 접속시
+```bash
+docker exec -it 00508b4430ac bash
+```
+![image](https://github.com/user-attachments/assets/0ec450a7-c657-4f02-a8b1-b7c88e69e642)
+
+#### openjdk
+```bash
+docker run --name myjdk openjdk:17
+```
