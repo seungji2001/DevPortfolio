@@ -65,9 +65,13 @@ docker run --name myjdk openjdk:17
 ```
 docker run --name mynginx -d -p 80:80 nginx
 ```
+-------
 
 ##### host os : window
 ##### guest os : linux
 ##### tool : virtual box
 ##### - NAT로 포트포워딩 
 ![image](https://github.com/user-attachments/assets/561dde05-b9fb-4f50-96c2-c2d200094622)
+### window에서 nginx 접근 가능 확인
+![image](https://github.com/user-attachments/assets/e8e2792a-c8d0-4478-9941-e31cb33c543c)
+
