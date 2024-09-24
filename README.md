@@ -5,6 +5,7 @@
 |------|-----------------|--------------------------------------|--------------------|----|------|
 | 1    |System Load & Performance Analysis    | 단일 CPU 시스템에서 CPU 부하 평균과 CPU, I/O 사용량을 분석하여 시스템 성능을 모니터링하고, CPU 및 I/O 집약적 작업 시나리오를 시뮬레이션하여 문제 해결 방안을 도출한 프로젝트      | Linux  |[System Load & Performance Analysis](https://github.com/seungji2001/WooriFISA/blob/e39cbfc9400a62bc2bea8877fc5e278a4b9e465d/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EB%B6%80%ED%95%98%20%EB%B0%8F%20CPU%20%EC%83%81%ED%83%9C%20%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81.md) |1|
 | 2 | OSPFv3 | OSPFv3의 동작 원리와 보안 | Cisco, GNS3 | [OSPFv3](https://www.canva.com/design/DAGQT7NObk8/aHSJaPEUMAkt-gZgbtsktQ/edit?utm_content=DAGQT7NObk8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)|4|
+| 3|Docker 이미지 최적화 실습  |Docker 이미지를 최적화하기 전과 후의 변화를 비교하기 위한 실습, 일한 애플리케이션을 사용하되, 최적화된 전략을 적용하여 이미지 크기, 빌드 속도, 성능 등을 비교할 수 있습니다. | [Docker 이미지 최적화 실습](https://github.com/seungji2001/DevPortfolio/blob/ed5fa6db9defec121828b9b9fd7dddead045dafa/DevOps/Hands-On%20Project%3A%20Reducing%20Docker%20Image%20Size%20for%20Optimal%20Performance.md) |1|
 ### 백엔드 프로젝트 목록
 | No   | Project Name    | Description                          | Stack              | URL|Participants|
 |------|-----------------|--------------------------------------|--------------------|----|------|
