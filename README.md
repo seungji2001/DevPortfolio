@@ -20,3 +20,4 @@
 |  1   |  Docker 환경 설치  | Docker Linux환경 환경 설치     | linux, docker  |[docker 환경 구축](https://github.com/seungji2001/DevPortfolio/blob/b054442eea22aa3da34c309eec2f820b6b7b1860/DevOps/Docker.md)|
 |2|Docker 이미지 최소화| Docker 이미지를 효율적으로 최소화 하기 위한 기술들 정리 | linux, docker | [Docker Image Optimization: Tips & Tricks](https://github.com/seungji2001/DevPortfolio/blob/ec947ec5b76772a08a15f2eea7a741a045aff157/Article/Docker%20Image%20Optimization%20Made%20Simple.md), [Reduce the size of the Docker Image](https://github.com/seungji2001/DevPortfolio/blob/fd545732b27c990c96e3a3e3600c5f0a49bc35a9/Article/Minimize%20Docker%20Image%20Size.md)|
 |3|Docker Volume| Docker Volume학습 | linux, docker|[Docker Volume](https://github.com/seungji2001/DevPortfolio/blob/144da72dce815aa2db09d7ed68e3fe952eea44f5/DevOps/Volume%EC%9D%98%20%EC%82%AC%EC%9A%A9.md)|
+|4|Jenkins setting| Jenkins 환경 구축 | linux, docker, ngrox, jenkins|[]()|
