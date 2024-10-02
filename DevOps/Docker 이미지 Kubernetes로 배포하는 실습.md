@@ -1,4 +1,4 @@
-# Docker 이미지 Kubernetes로 배포하는 실습
+# Docker 이미지 Kubernetes로 배포
 
 ### 1. Jar파일을 포함하는 Docker 이미지 생성
 ##### a. Dockefile 작성
@@ -24,9 +24,10 @@ docker build -t your-dockerhub-username/your-app-name .
 docker login
 docker push your-dockerhub-username/java-app
 ```
+![image](https://github.com/user-attachments/assets/8bbcf53b-88bd-498e-bdde-84553d8c8ffe)
 
 
-### 3. Kubernetes로 배포
+### 2. Kubernetes로 배포
 
 ##### a. Kubernetes 배포 파일 작성
 ```bash
@@ -103,6 +104,6 @@ http://<EXTERNAL_IP>:80
 ##### d. VM에서 실행한 경우, NAT를 사용하여 포트 포워딩 하는 과정 필요
 ![image](https://github.com/user-attachments/assets/3f1ff956-4fdc-45a7-9b22-b253d698843d)
 
-##### 결과
+### 🔚 결과
 ![image](https://github.com/user-attachments/assets/b7ec6777-055c-4024-95db-28f6a1c3cb97)
 ![image](https://github.com/user-attachments/assets/6202b051-4c7c-4f40-8cf9-81c250824513)
