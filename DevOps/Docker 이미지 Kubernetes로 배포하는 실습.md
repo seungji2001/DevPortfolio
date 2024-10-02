@@ -1,4 +1,5 @@
 # Docker 이미지 Kubernetes로 배포
+![image](https://github.com/user-attachments/assets/85e9eb3d-f4de-4d6c-a3bf-aeb8cacfe860)
 
 ### 1. Jar파일을 포함하는 Docker 이미지 생성
 ##### a. Dockefile 작성
