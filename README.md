@@ -7,8 +7,7 @@
 | 2 | OSPFv3 | OSPFv3의 동작 원리와 보안 | Cisco, GNS3 | [OSPFv3](https://www.canva.com/design/DAGQT7NObk8/aHSJaPEUMAkt-gZgbtsktQ/edit?utm_content=DAGQT7NObk8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)|4|
 | 3|Docker 이미지 최적화 실습  |Docker 이미지를 최적화하기 전과 후의 변화를 비교하기 위한 실습, 일한 애플리케이션을 사용하되, 최적화된 전략을 적용하여 이미지 크기, 빌드 속도, 성능 등을 비교할 수 있습니다. | Linux, Docker | [Docker 이미지 최적화 실습](https://github.com/seungji2001/DevPortfolio/blob/ed5fa6db9defec121828b9b9fd7dddead045dafa/DevOps/Hands-On%20Project%3A%20Reducing%20Docker%20Image%20Size%20for%20Optimal%20Performance.md) |1|
 |4| Trivy-Monitor | Trivy를 사용하여 이미지 스캔 및 Critical 취약점 Slack 알림 설정|bash, docker |[Trivy-Monitor](https://github.com/seungji2001/Trivy-Monitor/tree/main)|4|
-
-
+|5| Kubernetes 실습 | 
 ### 백엔드 프로젝트 목록
 | No   | Project Name    | Description                          | Stack              | URL|Participants|
 |------|-----------------|--------------------------------------|--------------------|----|------|
@@ -21,3 +20,4 @@
 |2|Docker 이미지 최소화| Docker 이미지를 효율적으로 최소화 하기 위한 기술들 정리 | linux, docker | [Docker Image Optimization: Tips & Tricks](https://github.com/seungji2001/DevPortfolio/blob/ec947ec5b76772a08a15f2eea7a741a045aff157/Article/Docker%20Image%20Optimization%20Made%20Simple.md), [Reduce the size of the Docker Image](https://github.com/seungji2001/DevPortfolio/blob/fd545732b27c990c96e3a3e3600c5f0a49bc35a9/Article/Minimize%20Docker%20Image%20Size.md)|
 |3|Docker Volume| Docker Volume학습 | linux, docker|[Docker Volume](https://github.com/seungji2001/DevPortfolio/blob/144da72dce815aa2db09d7ed68e3fe952eea44f5/DevOps/Volume%EC%9D%98%20%EC%82%AC%EC%9A%A9.md)|
 |4|Jenkins setting| Jenkins 환경 구축 | linux, docker, ngrox, jenkins|[Jenkins setting](https://github.com/seungji2001/fisatest)|
+|5|Kubernets 실습|Docker이미지를 Kubernetes로 배포하는 실습 | linux, docker, kubernetes|[Kubernetes & Docker](https://github.com/seungji2001/DevPortfolio/blob/62a330901021457e2515fac58f19f41405abc5a5/DevOps/Docker%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20Kubernetes%EB%A1%9C%20%EB%B0%B0%ED%8F%AC%ED%95%98%EB%8A%94%20%EC%8B%A4%EC%8A%B5.md)|
