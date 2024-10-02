@@ -7,7 +7,7 @@
 | 2 | OSPFv3 | OSPFv3의 동작 원리와 보안 | Cisco, GNS3 | [OSPFv3](https://www.canva.com/design/DAGQT7NObk8/aHSJaPEUMAkt-gZgbtsktQ/edit?utm_content=DAGQT7NObk8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)|4|
 | 3|Docker 이미지 최적화 실습  |Docker 이미지를 최적화하기 전과 후의 변화를 비교하기 위한 실습, 일한 애플리케이션을 사용하되, 최적화된 전략을 적용하여 이미지 크기, 빌드 속도, 성능 등을 비교할 수 있습니다. | Linux, Docker | [Docker 이미지 최적화 실습](https://github.com/seungji2001/DevPortfolio/blob/ed5fa6db9defec121828b9b9fd7dddead045dafa/DevOps/Hands-On%20Project%3A%20Reducing%20Docker%20Image%20Size%20for%20Optimal%20Performance.md) |1|
 |4| Trivy-Monitor | Trivy를 사용하여 이미지 스캔 및 Critical 취약점 Slack 알림 설정|bash, docker |[Trivy-Monitor](https://github.com/seungji2001/Trivy-Monitor/tree/main)|4|
-|5| Kubernetes 실습 | 
+
 ### 백엔드 프로젝트 목록
 | No   | Project Name    | Description                          | Stack              | URL|Participants|
 |------|-----------------|--------------------------------------|--------------------|----|------|
