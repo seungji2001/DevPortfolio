@@ -13,6 +13,7 @@
 | No   | Project Name    | Description                          | Stack              | URL|Participants|
 |------|-----------------|--------------------------------------|--------------------|----|------|
 | 1    |Everytime-by-fisa    |  필요한 순간, 필요한 물건을 함께 나누는 스마트한 대여 플랫폼    | Spring Framework, Javascript, Thymeleaf  |[Everytime-by-fisa](https://github.com/seungji2001/Everytime-by-fisa) |7|
+| 2| Myrok | AI 기반 회의록 협업 툴 | Spring Framework, JPA | [Myrok-server](https://github.com/seungji2001/myrok_server) | 4|
 
 ### 개인 공부 목록
 | No   | Name    | Description                          | Stack              | URL|
